@@ -1,0 +1,10 @@
+# # config/routes.yaml
+
+# # the "app_lucky_number" route name is not important yet
+# app_lucky_number:
+#     path: /lucky/number
+#     controller: App\Controller\LuckyController::number
+
+# app_send_email:
+#     path: /lucky/sender
+#     controller: App\Controller\LuckyController::sender
